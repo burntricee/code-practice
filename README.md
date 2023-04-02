@@ -1,2 +1,2 @@
 # code-practice
-codeforces problems
+codeforces problems that i have solved so far
